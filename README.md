@@ -1,3 +1,20 @@
+# Brief Summary
+
+<p align="center">
+  <img width="800" alt="Preview of Nasser Portfolio Home Page" src="https://github.com/user-attachments/assets/02351541-83a9-4315-ab02-b32b11218584">
+</p>
+<p align="center">
+  <sub>
+    Preview of the home page
+  </sub>
+</p>
+
+This is my personal portfolio website. It was designed in Figma and created from scratch using React.js.
+
+<ins>Highlighted skills</ins>: React.js, React Hooks, React Router, HTML, CSS, CSS animations, @media queries, and DOM Manipulation.
+
+<hr>
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
